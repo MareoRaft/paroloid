@@ -6,5 +6,5 @@ import (
 //
 func main() {
   js.Global().Call("alert", "Hello World")
-// 	println("Hello, JS console")
+	println("Hello, JS console")
 }
